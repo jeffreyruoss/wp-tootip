@@ -3,7 +3,7 @@
  */
 {
   document.addEventListener('DOMContentLoaded', function () {
-    const tooltipLinks = document.querySelectorAll('.fm-tooltip-link');
+    const tooltipLinks = document.querySelectorAll('.ru-tooltip-link');
 
     tooltipLinks.forEach(function (link) {
       const tooltipContentId = link.getAttribute('aria-describedby');

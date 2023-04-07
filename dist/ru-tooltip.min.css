@@ -1,0 +1,1 @@
+.ru-tooltip-content{display:none;position:absolute;z-index:100;background-color:#fff;border:1px solid #c4c4c4;border-radius:4px;padding:10px;box-shadow:0 4px 6px rgba(0,0,0,.1);width:300px}.ru-tooltip-link{cursor:pointer;text-decoration:underline;color:#007bff;outline:0}.ru-tooltip-content:focus-within,.ru-tooltip-link:focus+.ru-tooltip-content{display:block}

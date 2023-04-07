@@ -1,4 +1,4 @@
-.fm-tooltip-content {
+.ru-tooltip-content {
     display: none;
     position: absolute;
     z-index: 100;
@@ -10,14 +10,14 @@
     width: 300px;
 }
 
-.fm-tooltip-link {
+.ru-tooltip-link {
     cursor: pointer;
     text-decoration: underline;
     color: #007bff;
     outline: none;
 }
 
-.fm-tooltip-link:focus + .fm-tooltip-content,
-.fm-tooltip-content:focus-within {
+.ru-tooltip-link:focus + .ru-tooltip-content,
+.ru-tooltip-content:focus-within {
     display: block;
 }

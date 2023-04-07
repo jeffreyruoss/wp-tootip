@@ -1,8 +1,8 @@
 {
-  "name": "fm-tooltip",
+  "name": "ru-tooltip",
   "version": "1.0.0",
   "description": "",
-  "main": "fm-tooltip.js",
+  "main": "ru-tooltip.js",
   "scripts": {
     "start": "gulp watch"
   },
